@@ -89,9 +89,7 @@ Some major insights derived from the analysis:
 
 ## ▶️ How to Run the Project
 ```bash
-git clone https://github.com/yourusername/bank-loan-analysis.git
-cd bank-loan-analysis
-pip install pandas numpy openpyxl jupyter
+git clone Bank Loan Analysis (1).ipynb
 jupyter notebook
 ```
 
@@ -104,7 +102,6 @@ bank-loan-analysis/
 ├── Bank Loan Analysis.ipynb
 ├── financial_loan.xlsx
 ├── README.md
-└── images/
 ```
 
 ---
