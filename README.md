@@ -87,14 +87,6 @@ Some major insights derived from the analysis:
 
 ---
 
-## ▶️ How to Run the Project
-```bash
-git clone Bank Loan Analysis (1).ipynb
-jupyter notebook
-```
-
----
-
 ## 📁 Project Structure
 ```bash
 bank-loan-analysis/
@@ -102,7 +94,7 @@ bank-loan-analysis/
 ├── Bank Loan Analysis.ipynb
 ├── financial_loan.xlsx
 ├── README.md
-```
+
 
 ---
 
