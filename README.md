@@ -110,11 +110,11 @@ bank-loan-analysis/
 ---
 
 ## 👤 Author
-**Hash Nat**
+** Hash Nat **
 
 Python | Data Analytics | Finance | Power BI | SQL
 
 ---
 
 ## ⭐ If you like this project
-Please give this repository a **star ⭐** on GitHub.
+Please give this repository a ** star ⭐ ** on GitHub.
