@@ -121,7 +121,7 @@ bank-loan-analysis/
 ---
 
 ## 👤 Author
-**Hash Sam**
+**Hash Nat**
 
 Python | Data Analytics | Finance | Power BI | SQL
 
